@@ -1,6 +1,5 @@
 Danielle Adusei
 
-A link to your published Datawrapper chart or an embedded screenshot of your chart
+https://datawrapper.dwcdn.net/i3Bgf/2/
 
-A short (2–3 sentence) explanation of what the chart shows and how it would fit into your final project
-
+My pie chart displays the average percentage of Naloxone dispensing in the United States, divided up by Census regions. This chart will fit into my final project due to its focus on the drug ,Naloxone, that is known for reversing the effect of fentanyl. Showing the average dispensing rate helps us paint a picture of the U.S. regions that are responding to the crisis.
