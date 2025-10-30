@@ -1,5 +1,8 @@
 Danielle Adusei 
 
+[Trauma deserts in rural America: Where you live can determine whether you live
+](https://interactives.dallasnews.com/2023/bleeding-out/trauma-deserts-bleeding-to-death-united-states/)
+
 **Lede**
 
 The reporter used a vignette‐style lede. The lede started off with a clear description of a car driving off a cliff in Colorado at night. This is an effective way of engaging the reader because this one sentence leaves the reader with questions of the events, how it happened, what it means, and how it relates to the title and topic of the article. This lede will also invoke emotions such as pity, confusion, and sadness to the audience. 
